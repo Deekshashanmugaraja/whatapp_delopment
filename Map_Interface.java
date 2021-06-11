@@ -75,6 +75,6 @@ public class Map_Interface {
 * LinkedHashMap
    It maintains insertion order.
    Based on linked list and hashing data structures
-
+hiding last seen
 .
  */
