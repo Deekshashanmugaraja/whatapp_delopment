@@ -76,5 +76,7 @@ public class Map_Interface {
    It maintains insertion order.
    Based on linked list and hashing data structures
 hiding last seen
+adding video
+adding audio
 .
  */
